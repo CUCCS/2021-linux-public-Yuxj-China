@@ -14,7 +14,7 @@
 
 -在“设置-存储-控制器”中移除IDE，在SATA里先后挂载Ubuntu 20.04和init.iso，设置网卡，具体自动化安装见实验步骤。
 
-2，Virtualbox安装完Ubuntu之后新添加的网卡如何实现系统开机自动启用和自动获取IP？
+2，Virtualbox安装完Ubuntu之后新添加的网卡如何实现系统开机自动启用和自动获取IP
 
 -解决方法来源：https://blog.csdn.net/xiongyangg/article/details/110206220
 
