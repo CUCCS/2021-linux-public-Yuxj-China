@@ -1,28 +1,27 @@
-lesson 1.1~1.6:
+# 课程考核方法
 
-https://asciinema.org/a/remp8xZmZ3R0EOXWUU0eIbF2A
-
-lesson 2.1~2.7:
-
-https://asciinema.org/a/GAyM1q7nMjqg6s16K6jAYSsXo
-
-lesson 3.1~3.4
-
-https://asciinema.org/a/lCNglLqSNiT36p1ExyAdcNPmZ
-
-lesson 4.1~4.4
-
-https://asciinema.org/a/lCil1WWenX23kUOBwsg3SCJ7v
-
-lesson 5.1~5.4
-
-https://asciinema.org/a/akmPtfrnVsq0li0N7QhxYILol
-
-lesson 6.1~6.5
+• 平时分满分 20 分，分数构成如下：
 
 
-https://asciinema.org/a/eSqVt1VqrV3ed45jBrYclyn9o
+• 16 次考勤，每次正常签到得 0.5 分，迟到得 0.2 分，旷课得 0 分。有假条的病事假按正常签到计分。
 
-lesson 7.1~7.3
+• 学习积极性评分：8 次课后作业总得分 / 8次课后作业满分 * 12 + 主观评价因子，满分不超过 12 分
 
-https://asciinema.org/a/fULmTipS6IwrhYaJTOSXClXj4
+• 主观评价因子：随堂测试，积极参与课堂讨论
+
+• 8 章课程，每章课后均留有作业，按章节顺序分别记为：H1 ~ H8
+
+• 满分 20 分的 必选 作业：H1, H4
+
+• 满分 20 分的 三选一必选 作业：H6, H7, H8
+
+• 可选 作业：H2和H3满分均为5分，H5满分10分。该项计分公式为：max(sum(H2,H3), H5)
+
+• H6, H7, H8 要求提交到私有仓库，其他章节作业均提交到公开仓库。
+
+• 默认每一次作业的「规定」提交截止时间是从作业布置当天开始的一周之内。例如，3.17布置的第一次课作业最晚提交截止时间是3.23晚23:59:59。超时提交的作业将
+被酌情扣分。
+
+• 线上成绩在慕课 SPOC 平台上获取，满分 10 分。
+
+• 详细考核计分规则请查阅 期末成绩在线计算器 的 J, K, L, M, N 列的计算公式。
